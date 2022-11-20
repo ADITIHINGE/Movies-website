@@ -70,7 +70,7 @@ class Movies extends React.Component {
             </div>
           )}
           <div className="main-footer">
-            <footer>© 2022 Sachin Kudande</footer>
+            <footer>© 2022 Aditi Hinge </footer>
           </div>
         </div>
       </div>
